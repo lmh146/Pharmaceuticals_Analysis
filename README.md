@@ -1,4 +1,4 @@
-# Matplotlib_Challenge
+# Pharmaceuticals_Analysis
 
 ## Overview
 This project looks at the data provided from a study on the effects different drug regimens had on the size of tumors in mice over time. The program first looks to merge the mouse data with the gathered study data to then pull information. The program works to create visuals focusing on different aspects of the data from the study to examine information about the mice as well as the effectiveness of different drugs.
